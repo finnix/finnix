@@ -1,0 +1,17 @@
+# SPDX-PackageName: finnix
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://codeberg.org/finnix/finnix
+# SPDX-FileComment: Forgejo issue templates
+# SPDX-FileCopyrightText: © 2026 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: MPL-2.0
+---
+name: "Discussion"
+about: "If you would just like to discuss Finnix with the community, please start here."
+title: "[Discussion] "
+ref: "main"
+labels:
+  - "discussion"
+body:
+  - type: "textarea"
+    attributes:
+      label: "New discussion"
